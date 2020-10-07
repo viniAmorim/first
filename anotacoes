@@ -15,3 +15,6 @@ Roteamento no React
 
 Styled Components
 . yarn add styled-components
+
+Estilizando página Main
+. yarn add react-icons
