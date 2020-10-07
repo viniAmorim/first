@@ -10,3 +10,6 @@ ESLint, Prettier & EditorConfig
 . yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
 . yarn add babel-eslint -D
 . Criar arquivo .prettierrc
+
+Roteamento no React
+. yarn add react-router-dom: Roteamento no frontend da aplicação
