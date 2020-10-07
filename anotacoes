@@ -7,9 +7,11 @@ ESLint, Prettier & EditorConfig
 . yarn eslint --init
 . Remover arquivo package-lock.json
 . rodar 'yarn' na raiz do projeto pra atualizar as dependencias
-. yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
-. yarn add babel-eslint -D
+. yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
 . Criar arquivo .prettierrc
 
 Roteamento no React
 . yarn add react-router-dom: Roteamento no frontend da aplicação
+
+Styled Components
+. yarn add styled-components
