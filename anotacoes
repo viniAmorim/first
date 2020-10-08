@@ -21,3 +21,6 @@ Estilizando página Main
 
 Adicionando repositórios
 . yarn add icons
+
+Definindo PropTypes
+. yarn add prop-types
